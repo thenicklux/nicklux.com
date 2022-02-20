@@ -1,9 +1,26 @@
-body{
+
+.button{
     font-family: 'Roboto', sans-serif;
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 80vh;
+    margin:0px;
+
+    
+}
+
+.header{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    background-color: #151b29;  
+    font-size: 35px;
+    color:#ffa260;
+    
+}
+
+body{
+    margin:0;   
     background-color: #151b29;
 }
 
